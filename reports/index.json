@@ -1,0 +1,29 @@
+{
+  "colorPalette": "violet-purple",
+  "glassSurfaces": false,
+  "entries": [
+    {
+      "id": "20260425-220610-uy1k",
+      "title": "Jorkin It With Joko",
+      "commanders": [
+        "Jorkin It With Joko"
+      ],
+      "dateStart": "2026-04-26T02:06:10.000Z",
+      "dateEnd": "2026-04-26T02:56:25.000Z",
+      "dateLabel": "4/25/2026, 10:06:10 PM - 4/25/2026, 10:56:25 PM",
+      "url": "https://xanasthiel.github.io/Maidenless-Behavior-RANI-Fight-Log-Repository/?report=20260425-220610-uy1k",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 27,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 7,
+        "avgEnemySize": 42
+      }
+    }
+  ]
+}
