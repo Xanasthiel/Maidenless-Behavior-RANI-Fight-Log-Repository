@@ -3,6 +3,34 @@
   "glassSurfaces": false,
   "entries": [
     {
+      "id": "20260427-190243-2vwr",
+      "title": "Jorkin It With Joko",
+      "commanders": [
+        "Jorkin It With Joko"
+      ],
+      "dateStart": "2026-04-27T23:02:43.000Z",
+      "dateEnd": "2026-04-28T00:27:59.000Z",
+      "dateLabel": "4/27/2026, 7:02:43 PM - 4/27/2026, 8:27:59 PM",
+      "url": "https://xanasthiel.github.io/Maidenless-Behavior-RANI-Fight-Log-Repository/?report=20260427-190243-2vwr",
+      "summary": {
+        "borderlandsPct": 0.6153846153846154,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 8,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 5,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 14,
+        "avgEnemySize": 35
+      }
+    },
+    {
       "id": "20260426-211115-6mzt",
       "title": "Mylo Da Reaper",
       "commanders": [
