@@ -3,6 +3,35 @@
   "glassSurfaces": false,
   "entries": [
     {
+      "id": "20260503-213723-7qkk",
+      "title": "Hunhildr, Johnny Da Rev",
+      "commanders": [
+        "Hunhildr",
+        "Johnny Da Rev"
+      ],
+      "dateStart": "2026-05-04T01:37:23.000Z",
+      "dateEnd": "2026-05-04T03:07:08.000Z",
+      "dateLabel": "5/3/2026, 9:37:23 PM - 5/3/2026, 11:07:08 PM",
+      "url": "https://xanasthiel.github.io/Maidenless-Behavior-RANI-Fight-Log-Repository/?report=20260503-213723-7qkk",
+      "summary": {
+        "borderlandsPct": 0.14285714285714285,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 18,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 3,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 35,
+        "avgEnemySize": 51
+      }
+    },
+    {
       "id": "20260502-210440-isi9",
       "title": "Jorkin It With Joko",
       "commanders": [
