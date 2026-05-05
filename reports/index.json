@@ -1,7 +1,41 @@
 {
   "colorPalette": "violet-purple",
   "glassSurfaces": false,
+  "glassmorphic": false,
   "entries": [
+    {
+      "id": "20260504-190433-451f",
+      "title": "Jorkin It With Joko",
+      "commanders": [
+        "Jorkin It With Joko"
+      ],
+      "dateStart": "2026-05-04T23:04:33.000Z",
+      "dateEnd": "2026-05-05T00:04:43.000Z",
+      "dateLabel": "5/4/2026, 7:04:33 PM - 5/4/2026, 8:04:43 PM",
+      "url": "https://xanasthiel.github.io/Maidenless-Behavior-RANI-Fight-Log-Repository/?report=20260504-190433-451f",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 3,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 3,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 1,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 15,
+        "avgEnemySize": 26
+      }
+    },
     {
       "id": "20260503-213723-7qkk",
       "title": "Hunhildr, Johnny Da Rev",
