@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260506-212611-lmnz",
+      "title": "Johnny The Guard",
+      "commanders": [
+        "Johnny The Guard"
+      ],
+      "dateStart": "2026-05-07T01:26:11.000Z",
+      "dateEnd": "2026-05-07T02:47:24.000Z",
+      "dateLabel": "5/6/2026, 9:26:11 PM - 5/6/2026, 10:47:24 PM",
+      "url": "https://xanasthiel.github.io/Maidenless-Behavior-RANI-Fight-Log-Repository/?report=20260506-212611-lmnz",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 19,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 27,
+        "avgEnemySize": 43
+      }
+    },
+    {
       "id": "20260504-190433-451f",
       "title": "Jorkin It With Joko",
       "commanders": [
