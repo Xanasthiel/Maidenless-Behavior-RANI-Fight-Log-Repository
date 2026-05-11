@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260510-212532-glro",
+      "title": "Plains Da Reaper",
+      "commanders": [
+        "Plains Da Reaper"
+      ],
+      "dateStart": "2026-05-11T01:25:32.000Z",
+      "dateEnd": "2026-05-11T03:09:55.000Z",
+      "dateLabel": "5/10/2026, 9:25:32 PM - 5/10/2026, 11:09:55 PM",
+      "url": "https://Xanasthiel.github.io/Maidenless-Behavior-RANI-Fight-Log-Repository/?report=20260510-212532-glro",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 5,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 3,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 41,
+        "avgEnemySize": 34
+      }
+    },
+    {
       "id": "20260506-212611-lmnz",
       "title": "Johnny The Guard",
       "commanders": [
