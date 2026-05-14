@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260513-214648-iamh",
+      "title": "Johnny The Guard",
+      "commanders": [
+        "Johnny The Guard"
+      ],
+      "dateStart": "2026-05-14T01:46:48.000Z",
+      "dateEnd": "2026-05-14T02:59:23.000Z",
+      "dateLabel": "5/13/2026, 9:46:48 PM - 5/13/2026, 10:59:23 PM",
+      "url": "https://Xanasthiel.github.io/Maidenless-Behavior-RANI-Fight-Log-Repository/?report=20260513-214648-iamh",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 18,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 35,
+        "avgEnemySize": 36
+      }
+    },
+    {
       "id": "20260510-212532-glro",
       "title": "Plains Da Reaper",
       "commanders": [
