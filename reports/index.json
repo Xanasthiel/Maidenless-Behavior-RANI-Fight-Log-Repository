@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260530-221452-otbm",
+      "title": "Capybara Enthusiast",
+      "commanders": [
+        "Capybara Enthusiast"
+      ],
+      "dateStart": "2026-05-31T02:14:52.000Z",
+      "dateEnd": "2026-05-31T03:02:33.000Z",
+      "dateLabel": "5/30/2026, 10:14:52 PM - 5/30/2026, 11:02:33 PM",
+      "url": "https://Xanasthiel.github.io/Maidenless-Behavior-RANI-Fight-Log-Repository/?report=20260530-221452-otbm",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 24,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 6,
+        "avgEnemySize": 34
+      }
+    },
+    {
       "id": "20260527-215614-k7hj",
       "title": "Johnny The Guard",
       "commanders": [
