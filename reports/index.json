@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260610-190821-x9kd",
+      "title": "Dreamsynth",
+      "commanders": [
+        "Dreamsynth"
+      ],
+      "dateStart": "2026-06-10T23:08:21.000Z",
+      "dateEnd": "2026-06-11T00:05:07.000Z",
+      "dateLabel": "6/10/2026, 7:08:21 PM - 6/10/2026, 8:05:07 PM",
+      "url": "https://Xanasthiel.github.io/Maidenless-Behavior-RANI-Fight-Log-Repository/?report=20260610-190821-x9kd",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 7,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 3,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 10,
+        "avgEnemySize": 32
+      }
+    },
+    {
       "id": "20260608-191118-wucr",
       "title": "Capybara Enthusiast",
       "commanders": [
