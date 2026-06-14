@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260613-212035-mm03",
+      "title": "Capybara Enthusiast",
+      "commanders": [
+        "Capybara Enthusiast"
+      ],
+      "dateStart": "2026-06-14T01:20:35.000Z",
+      "dateEnd": "2026-06-14T02:35:13.000Z",
+      "dateLabel": "6/13/2026, 9:20:35 PM - 6/13/2026, 10:35:13 PM",
+      "url": "https://Xanasthiel.github.io/Maidenless-Behavior-RANI-Fight-Log-Repository/?report=20260613-212035-mm03",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 21,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 8,
+        "avgEnemySize": 41
+      }
+    },
+    {
       "id": "20260610-213453-1k90",
       "title": "Johnny Fayth",
       "commanders": [
