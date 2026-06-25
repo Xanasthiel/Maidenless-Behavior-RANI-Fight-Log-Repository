@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260624-213542-rrii",
+      "title": "Johnny Da Reaper",
+      "commanders": [
+        "Johnny Da Reaper"
+      ],
+      "dateStart": "2026-06-25T01:35:42.000Z",
+      "dateEnd": "2026-06-25T02:51:27.000Z",
+      "dateLabel": "6/24/2026, 9:35:42 PM - 6/24/2026, 10:51:27 PM",
+      "url": "https://Xanasthiel.github.io/Maidenless-Behavior-RANI-Fight-Log-Repository/?report=20260624-213542-rrii",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 17,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 7,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 27,
+        "avgEnemySize": 35
+      }
+    },
+    {
       "id": "20260617-212451-igyo",
       "title": "Johnny Fayth",
       "commanders": [
