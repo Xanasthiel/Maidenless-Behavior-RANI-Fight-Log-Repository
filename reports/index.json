@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260628-214514-eblj",
+      "title": "Johnny Fayth",
+      "commanders": [
+        "Johnny Fayth"
+      ],
+      "dateStart": "2026-06-29T01:45:14.000Z",
+      "dateEnd": "2026-06-29T02:41:51.000Z",
+      "dateLabel": "6/28/2026, 9:45:14 PM - 6/28/2026, 10:41:51 PM",
+      "url": "https://Xanasthiel.github.io/Maidenless-Behavior-RANI-Fight-Log-Repository/?report=20260628-214514-eblj",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 24,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 34,
+        "avgEnemySize": 40
+      }
+    },
+    {
       "id": "20260624-213542-rrii",
       "title": "Johnny Da Reaper",
       "commanders": [
