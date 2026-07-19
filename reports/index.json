@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260718-212006-ogz0",
+      "title": "Capybara Enthusiast",
+      "commanders": [
+        "Capybara Enthusiast"
+      ],
+      "dateStart": "2026-07-19T01:20:06.000Z",
+      "dateEnd": "2026-07-19T02:30:10.000Z",
+      "dateLabel": "7/18/2026, 9:20:06 PM - 7/18/2026, 10:30:10 PM",
+      "url": "https://Xanasthiel.github.io/Maidenless-Behavior-RANI-Fight-Log-Repository/?report=20260718-212006-ogz0",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 15,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 5,
+        "avgEnemySize": 31
+      }
+    },
+    {
       "id": "20260708-194145-xny9",
       "title": "Capybara Enthusiast",
       "commanders": [
