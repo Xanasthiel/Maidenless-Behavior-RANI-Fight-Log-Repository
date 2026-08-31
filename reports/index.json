@@ -4,6 +4,40 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260829-211601-4eks",
+      "title": "Capybara Enthusiast, Hunhildr",
+      "commanders": [
+        "Capybara Enthusiast",
+        "Hunhildr"
+      ],
+      "guild": {
+        "id": "37E9423C-3119-E511-8D0D-AC162DAE8ACD",
+        "name": "The Pug Group",
+        "tag": "PUGS"
+      },
+      "dateStart": "2026-08-30T01:16:01.000Z",
+      "dateEnd": "2026-08-31T02:01:16.103Z",
+      "dateLabel": "8/29/2026, 9:16:01 PM - 8/30/2026, 10:01:16 PM",
+      "url": "https://Xanasthiel.github.io/Maidenless-Behavior-RANI-Fight-Log-Repository/?report=20260829-211601-4eks",
+      "summary": {
+        "borderlandsPct": 0.6,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 12,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 8,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 13,
+        "avgEnemySize": 27
+      }
+    },
+    {
       "id": "20260718-212006-ogz0",
       "title": "Capybara Enthusiast",
       "commanders": [
